@@ -8,7 +8,7 @@ export default function Home() {
   const [mediaProps, setMediaProps] = useState({
     src: '',
     type: '',
-    width: 400,
+    width: 300,
     height: 200,
     startTime: 0,
     endTime: 10,
